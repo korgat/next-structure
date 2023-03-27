@@ -1,0 +1,1 @@
+general small components (similar to atoms)
